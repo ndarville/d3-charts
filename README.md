@@ -6,4 +6,4 @@ Coalition Majority
 ------------------
 ![Coalition Majority thumbnail](screenshots/coalition-majority.png)
 
-Example, info, and source [here](//bl.ocks.org/ndarville/6475152).
+Example, info, and source [here](http://bl.ocks.org/ndarville/6475152).
