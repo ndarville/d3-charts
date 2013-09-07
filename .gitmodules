@@ -1,3 +1,6 @@
 [submodule "coalition-majority"]
 	path = coalition-majority
 	url = https://gist.github.com/6475152.git
+[submodule "party-votes"]
+	path = party-votes
+	url = https://gist.github.com/6475739.git
