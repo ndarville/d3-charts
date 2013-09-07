@@ -1,0 +1,3 @@
+[submodule "coalition-majority"]
+	path = coalition-majority
+	url = https://gist.github.com/6475152.git
