@@ -4,3 +4,6 @@
 [submodule "party-votes"]
 	path = party-votes
 	url = https://gist.github.com/6475739.git
+[submodule "confidence-interval"]
+	path = confidence-interval
+	url = https://gist.github.com/6552457.git
