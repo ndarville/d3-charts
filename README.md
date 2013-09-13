@@ -12,19 +12,19 @@ Hence, I have tried to create a collection of charts that should amend this. I h
 
 
 ### Party Votes ###
-![Party Votes thumbnail][party-votes-img]
+[![Party Votes thumbnail][party-votes-img]][party-votes-url]
 
 Example, info, and source [here][party-votes-url].
 
 
 ### Coalition Majority ###
-![Coalition Majority thumbnail][coalition-majority-img]
+[![Coalition Majority thumbnail][coalition-majority-img]][coalition-majority-url]
 
 Example, info, and source [here][coalition-majority-url].
 
 
 ### Confidence Interval ###
-![Confidence Interval thumbnail][confidence-interval-img]
+[![Confidence Interval thumbnail][confidence-interval-img]][confidence-interval-url]
 
 Example, info, and source [here][confidence-interval-url].
 
