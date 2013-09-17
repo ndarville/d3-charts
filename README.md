@@ -29,9 +29,9 @@ Example, info, and source [here][coalition-majority-url].
 Example, info, and source [here][confidence-interval-url].
 
 ### Works in Progress ###
-
 1. [Party Trend][party-trend-url]
 2. [Combi Chart][combi-chart-url]
+3. [Blame Chart][blame-chart-url]
 
 
 [d3]: http://d3js.org
@@ -43,3 +43,4 @@ Example, info, and source [here][confidence-interval-url].
 [confidence-interval-url]: http://bl.ocks.org/ndarville/6552457
 [party-trend-url]: http://bl.ocks.org/ndarville/6574995
 [combi-chart-url]: http://bl.ocks.org/ndarville/6587098
+[blame-chart-url]: http://bl.ocks.org/ndarville/6596508

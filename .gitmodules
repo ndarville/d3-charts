@@ -7,3 +7,12 @@
 [submodule "confidence-interval"]
 	path = confidence-interval
 	url = https://gist.github.com/6552457.git
+[submodule "party-trend"]
+	path = party-trend
+	url = https://gist.github.com/6574995.git
+[submodule "combi-chart"]
+	path = combi-chart
+	url = https://gist.github.com/6587098.git
+[submodule "blame-chart"]
+	path = blame-chart
+	url = https://gist.github.com/6596508.git
