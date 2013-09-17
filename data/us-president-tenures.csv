@@ -1,1 +1,45 @@
-name,party,startDate,endDate
+name,termStart,termEnd,party
+George Washington,04/30/1789,03/04/1797,Independent
+John Adams,03/04/1797,03/04/1801,Federalist
+Thomas Jefferson,03/04/1801,03/04/1809,Democratic-Republican
+James Madison,03/04/1809,03/04/1817,Democratic-Republican
+James Monroe,03/04/1817,03/04/1825,Democratic-Republican
+John Quincy Adams,03/04/1825,03/04/1829,Democratic-Republican
+Andrew Jackson,03/04/1829,03/04/1837,Democratic
+Martin Van Buren,03/04/1837,03/04/1841,Democratic
+William Henry Harrison,03/04/1841,04/04/1841,Whig
+John Tyler,04/04/1841,03/04/1845,Whig
+James K. Polk,03/04/1845,03/04/1849,Democratic
+Zachary Taylor,03/04/1849,07/09/1850,Whig
+Millard Fillmore,07/09/1850,03/04/1853,Whig
+Franklin Pierce,03/04/1853,03/04/1857,Democratic
+James Buchanan,03/04/1857,03/04/1861,Democratic
+Abraham Lincoln,03/04/1861,04/15/1865,Republican
+Andrew Johnson,04/15/1865,03/04/1869,Democratic
+Ulysses S. Grant,03/04/1869,03/04/1877,Republican
+Rutherford B. Hayes,03/04/1877,03/04/1881,Republican
+James A. Garfield,03/04/1881,09/19/1881,Republican
+Chester A. Arthur,09/19/1881,03/04/1885,Republican
+Grover Cleveland,03/04/1885,03/04/1889,Democratic
+Benjamin Harrison,03/04/1889,03/04/1893,Republican
+Grover Cleveland,03/04/1893,03/04/1897,Democratic
+William McKinley,03/04/1897,09/14/1901,Republican
+Theodore Roosevelt,09/14/1901,03/04/1909,Republican
+William Howard Taft,03/04/1909,03/04/1913,Republican
+Woodrow Wilson,03/04/1913,03/04/1921,Democratic
+Warren G. Harding,03/04/1921,08/02/1923,Republican
+Calvin Coolidge,08/02/1923,03/04/1929,Republican
+Herbert Hoover,03/04/1929,03/04/1933,Republican
+Franklin D. Roosevelt,03/04/1933,04/12/1945,Democratic
+Harry S. Truman,04/12/1945,01/20/1953,Democratic
+Dwight D. Eisenhower,01/20/1953,01/20/1961,Republican
+John F. Kennedy,01/20/1961,11/22/1963,Democratic
+Lyndon B. Johnson,11/22/1963,01/20/1969,Democratic
+Richard Nixon,01/20/1969,08/09/1974,Republican
+Gerald Ford,08/09/1974,01/20/1977,Republican
+Jimmy Carter,01/20/1977,01/20/1981,Democratic
+Ronald Reagan,01/20/1981,01/20/1989,Republican
+George H. W. Bush,01/20/1989,01/20/1993,Republican
+Bill Clinton,01/20/1993,01/20/2001,Democratic
+George W. Bush,01/20/2001,01/20/2009,Republican
+Barack Obama,01/20/2009,Incumbent,Democratic
