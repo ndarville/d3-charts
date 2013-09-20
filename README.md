@@ -32,6 +32,7 @@ Example, info, and source [here][confidence-interval-url].
 1. [Party Trend][party-trend-url]
 2. [Combi Chart][combi-chart-url]
 3. [Blame Chart][blame-chart-url]
+4. [Bill Votes][bill-votes-url]
 
 
 [d3]: http://d3js.org
@@ -44,3 +45,4 @@ Example, info, and source [here][confidence-interval-url].
 [party-trend-url]: http://bl.ocks.org/ndarville/6574995
 [combi-chart-url]: http://bl.ocks.org/ndarville/6587098
 [blame-chart-url]: http://bl.ocks.org/ndarville/6596508
+[bill-votes-url]: http://bl.ocks.org/ndarville/6484947
