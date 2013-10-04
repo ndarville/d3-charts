@@ -33,6 +33,7 @@ Example, info, and source [here][confidence-interval-url].
 2. [Combi Chart][combi-chart-url]
 3. [Blame Chart][blame-chart-url]
 4. [Bill Votes][bill-votes-url]
+5. [Relative Budgets][relative-budgets-url]
 
 
 [d3]: http://d3js.org
@@ -46,3 +47,4 @@ Example, info, and source [here][confidence-interval-url].
 [combi-chart-url]: http://bl.ocks.org/ndarville/6587098
 [blame-chart-url]: http://bl.ocks.org/ndarville/6596508
 [bill-votes-url]: http://bl.ocks.org/ndarville/6484947
+[relative-budgets-url]: http://bl.ocks.org/ndarville/6826638

@@ -16,3 +16,6 @@
 [submodule "blame-chart"]
 	path = blame-chart
 	url = https://gist.github.com/6596508.git
+[submodule "relative-budgets"]
+	path = relative-budgets
+	url = https://gist.github.com/6826638.git
