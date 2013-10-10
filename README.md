@@ -35,6 +35,8 @@ Example, info, and source [here][confidence-interval-url].
 4. [Bill Votes][bill-votes-url]
 5. [Relative Budgets][relative-budgets-url]
 
+    [![Relative Budgets thumbnail][relative-budgets-img]][relative-budgets-url]
+
 
 [d3]: http://d3js.org
 [party-votes-img]: screenshots/party-votes.png
@@ -46,5 +48,6 @@ Example, info, and source [here][confidence-interval-url].
 [party-trend-url]: http://bl.ocks.org/ndarville/6574995
 [combi-chart-url]: http://bl.ocks.org/ndarville/6587098
 [blame-chart-url]: http://bl.ocks.org/ndarville/6596508
-[bill-votes-url]: http://bl.ocks.org/ndarville/6484947
+[bill-votes-url]: http://bl.ocks.org/ndarville/6484png
 [relative-budgets-url]: http://bl.ocks.org/ndarville/6826638
+[relative-budgets-img]: screenshots/relative-budgets.png
