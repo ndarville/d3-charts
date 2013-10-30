@@ -19,3 +19,9 @@
 [submodule "relative-budgets"]
 	path = relative-budgets
 	url = https://gist.github.com/6826638.git
+[submodule "advanced-table"]
+	path = advanced-table
+	url = https://gist.github.com/7241320.git
+[submodule "simple-table"]
+	path = simple-table
+	url = https://gist.github.com/7075823.git

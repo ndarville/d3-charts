@@ -37,6 +37,10 @@ Example, info, and source [here][confidence-interval-url].
 
     [![Relative Budgets thumbnail][relative-budgets-img]][relative-budgets-url]
 
+#### CSV to HTML Table
+1. [Simple][simple-table]
+2. [Advanced][advanced-table]
+
 
 [d3]: http://d3js.org
 [party-votes-img]: screenshots/party-votes.png
@@ -51,3 +55,5 @@ Example, info, and source [here][confidence-interval-url].
 [bill-votes-url]: http://bl.ocks.org/ndarville/6484png
 [relative-budgets-url]: http://bl.ocks.org/ndarville/6826638
 [relative-budgets-img]: screenshots/relative-budgets.png
+[simple-table]: http://bl.ocks.org/ndarville/7075823
+[advanced-table]: http://bl.ocks.org/ndarville/7241320
