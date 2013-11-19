@@ -43,17 +43,17 @@ Example, info, and source [here][confidence-interval-url].
 
 
 [d3]: http://d3js.org
-[party-votes-img]: screenshots/party-votes.png
+[party-votes-img]: _screenshots/party-votes.png
 [party-votes-url]: http://bl.ocks.org/ndarville/6475739
-[coalition-majority-img]: screenshots/coalition-majority.png
+[coalition-majority-img]: _screenshots/coalition-majority.png
 [coalition-majority-url]: http://bl.ocks.org/ndarville/6475152
-[confidence-interval-img]: screenshots/confidence-interval.png
+[confidence-interval-img]: _screenshots/confidence-interval.png
 [confidence-interval-url]: http://bl.ocks.org/ndarville/6552457
 [party-trend-url]: http://bl.ocks.org/ndarville/6574995
 [combi-chart-url]: http://bl.ocks.org/ndarville/6587098
 [blame-chart-url]: http://bl.ocks.org/ndarville/6596508
 [bill-votes-url]: http://bl.ocks.org/ndarville/6484png
 [relative-budgets-url]: http://bl.ocks.org/ndarville/6826638
-[relative-budgets-img]: screenshots/relative-budgets.png
+[relative-budgets-img]: _screenshots/relative-budgets.png
 [simple-table]: http://bl.ocks.org/ndarville/7075823
 [advanced-table]: http://bl.ocks.org/ndarville/7241320
