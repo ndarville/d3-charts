@@ -37,7 +37,16 @@ Example, info, and source [here][confidence-interval-url].
 
     [![Relative Budgets thumbnail][relative-budgets-img]][relative-budgets-url]
 
-#### CSV to HTML Table
+Miscellaneous
+-------------
+### Works in Progress ###
+
+#### Symmetric Stack Chart ####
+[![Symmetric Stack Chart thumbnail][symmetric-stack-chart-img]][symmetric-stack-chart-url]
+
+Example, info, and source [here][symmetric-stack-chart-url].
+
+#### CSV to HTML Table ####
 1. [Simple][simple-table]
 2. [Advanced][advanced-table]
 
@@ -55,5 +64,7 @@ Example, info, and source [here][confidence-interval-url].
 [bill-votes-url]: http://bl.ocks.org/ndarville/6484png
 [relative-budgets-url]: http://bl.ocks.org/ndarville/6826638
 [relative-budgets-img]: _screenshots/relative-budgets.png
+[symmetric-stack-chart-url]: http://bl.ocks.org/ndarville/7648226
+[symmetric-stack-chart-img]: _screenshots/symmetric-stack-chart.png
 [simple-table]: http://bl.ocks.org/ndarville/7075823
 [advanced-table]: http://bl.ocks.org/ndarville/7241320
