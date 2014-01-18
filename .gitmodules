@@ -25,6 +25,6 @@
 [submodule "simple-table"]
 	path = simple-table
 	url = https://gist.github.com/7075823.git
-[submodule "symmetric-stack-chart"]
-	path = symmetric-stack-chart
-	url = https://gist.github.com/7648226.git
+[submodule "majority-chart"]
+	path = majority-chart
+	url = https://gist.github.com/8478044.git

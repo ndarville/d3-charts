@@ -41,10 +41,10 @@ Miscellaneous
 -------------
 ### Works in Progress ###
 
-#### Symmetric Stack Chart ####
-[![Symmetric Stack Chart thumbnail][symmetric-stack-chart-img]][symmetric-stack-chart-url]
+#### Majority Chart ####
+[![Symmetric Stack Chart thumbnail][majority-chart-img]][majority-chart-url]
 
-Example, info, and source [here][symmetric-stack-chart-url].
+Example, info, and source [here][majority-chart-url].
 
 #### CSV to HTML Table ####
 1. [Simple][simple-table]
@@ -64,7 +64,7 @@ Example, info, and source [here][symmetric-stack-chart-url].
 [bill-votes-url]: http://bl.ocks.org/ndarville/6484png
 [relative-budgets-url]: http://bl.ocks.org/ndarville/6826638
 [relative-budgets-img]: _screenshots/relative-budgets.png
-[symmetric-stack-chart-url]: http://bl.ocks.org/ndarville/7648226
-[symmetric-stack-chart-img]: _screenshots/symmetric-stack-chart.png
+[majority-chart-url]: http://bl.ocks.org/ndarville/8478044
+[majority-chart-img]: _screenshots/majority-chart.png
 [simple-table]: http://bl.ocks.org/ndarville/7075823
 [advanced-table]: http://bl.ocks.org/ndarville/7241320
