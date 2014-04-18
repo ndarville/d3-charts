@@ -28,7 +28,14 @@ To retrieve the data in R, Erik Gahner’s (Danish) [guide][gahner] is instructi
 
 Even if your Danish is a little rusty, you should be able to infer what goes on from the code snippets alone.
 
+## Centre for Survey and Survey/Registry Data
+The CSSR have recently released a wide array of [data][cssr], including [voter surveys from the last 16 national elections since 1971][historical-surveys].
+
+I have found their interface a royal pain, but more persistant people may prevail.
+
 
 [docs-error]: _screenshots/docs-error.png
 [polls-recent]: https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Danish_general_election
 [gahner]: http://erikgahner.dk/2013/12/11/meningsmalinger-fra-wikipedia-til-r-med-xml-pakken/
+[cssr]: http://www.sfi.dk/surveys_-_sorted_by_topics-11182.aspx#34888
+[historical-surveys]: http://www.sfi.dk/election_surveys-12699.aspx
