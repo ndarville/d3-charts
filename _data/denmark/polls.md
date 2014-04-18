@@ -19,11 +19,16 @@ Or, if we pretend the URL is `{{ URL }}` for a second:
 
 At this point, the imported table will show up in your spreadsheet, and you will be able to export the data in a format of your choice.
 
+**NB:** Unfortunately, it looks like Google Docs mistakenly parses all dates as 2014, even when this is not the case:
+
+![Google Docs error][docs-error]
+
 ### In R  ###
 To retrieve the data in R, Erik Gahner’s (Danish) [guide][gahner] is instructive.
 
 Even if your Danish is a little rusty, you should be able to infer what goes on from the code snippets alone.
 
 
+[docs-error]: _screenshots/docs-error.png
 [polls-recent]: https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Danish_general_election
 [gahner]: http://erikgahner.dk/2013/12/11/meningsmalinger-fra-wikipedia-til-r-med-xml-pakken/
