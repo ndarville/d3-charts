@@ -70,7 +70,7 @@ Example, info, and source [here][majority-chart-url].
 [confidence-interval-url]: http://bl.ocks.org/ndarville/6552457
 [party-trend-single-img]: _screenshots/party-trend-single.png
 [party-trend-single-url]: http://bl.ocks.org/ndarville/6574995
-[party-trend-multi-img]: _screenshots/party-trend-single.png
+[party-trend-multi-img]: _screenshots/party-trend-multi.png
 [party-trend-multi-url]: http://bl.ocks.org/ndarville/11094667
 [party-trend-url]: http://bl.ocks.org/ndarville/6574995
 [combi-chart-url]: http://bl.ocks.org/ndarville/6587098
