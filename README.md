@@ -34,7 +34,7 @@ Example, info, and source [here][confidence-interval-url].
 Example, info, and source [here][party-trend-single-url].
 
 #### Multi-Party Display ####
-[![Party Trend, multi-party display thumbnail][party-trend-multi-url]][party-trend-multi-url]
+[![Party Trend, multi-party display thumbnail][party-trend-multi-img]][party-trend-multi-url]
 
 Example, info, and source [here][party-trend-multi-url].
 
