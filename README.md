@@ -22,11 +22,21 @@ Example, info, and source [here][party-votes-url].
 
 Example, info, and source [here][coalition-majority-url].
 
-
 ### Confidence Interval ###
 [![Confidence Interval thumbnail][confidence-interval-img]][confidence-interval-url]
 
 Example, info, and source [here][confidence-interval-url].
+
+### Party Trend ###
+#### Single-Party Display ####
+[![Party Trend, single-party display thumbnail][party-trend-single-img]][party-trend-single-url]
+
+Example, info, and source [here][party-trend-single-url].
+
+#### Multi-Party Display ####
+[![Party Trend, multi-party display thumbnail][party-trend-multi-url]][party-trend-multi-url]
+
+Example, info, and source [here][party-trend-multi-url].
 
 ### Works in Progress ###
 1. [Party Trend][party-trend-url]
@@ -58,6 +68,10 @@ Example, info, and source [here][majority-chart-url].
 [coalition-majority-url]: http://bl.ocks.org/ndarville/6475152
 [confidence-interval-img]: _screenshots/confidence-interval.png
 [confidence-interval-url]: http://bl.ocks.org/ndarville/6552457
+[party-trend-single-img]: _screenshots/party-trend-single.png
+[party-trend-single-url]: http://bl.ocks.org/ndarville/6574995
+[party-trend-multi-img]: _screenshots/party-trend-single.png
+[party-trend-multi-url]: http://bl.ocks.org/ndarville/11094667
 [party-trend-url]: http://bl.ocks.org/ndarville/6574995
 [combi-chart-url]: http://bl.ocks.org/ndarville/6587098
 [blame-chart-url]: http://bl.ocks.org/ndarville/6596508
