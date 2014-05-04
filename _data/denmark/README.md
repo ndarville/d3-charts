@@ -1,6 +1,6 @@
 Data Sources
 ------------
-If you need polling from the latest Danish election to present, Wikipedia has a compiled dataset at [“Opinion Polling for the Next Danish General Election”][polls-recent].
+If you need polling from the latest Danish election to present, Wikipedia has a compiled dataset at [“Opinion Polling for the Next Danish General Election”][polls-recent]. The polling data appears to be from [this][meningsmaaleren] aggregator (which requires Flash).
 
 ## Importing the Data ##
 
@@ -36,6 +36,7 @@ I have found their interface a royal pain, but more persistant people may prevai
 
 [docs-error]: _screenshots/docs-error.png
 [polls-recent]: https://en.wikipedia.org/wiki/Opinion_polling_for_the_next_Danish_general_election
+[meningsmaaleren]: http://politiken.dk/indland/politik/meningsmaaleren/
 [gahner]: http://erikgahner.dk/2013/12/11/meningsmalinger-fra-wikipedia-til-r-med-xml-pakken/
 [cssr]: http://www.sfi.dk/surveys_-_sorted_by_topics-11182.aspx#34888
 [historical-surveys]: http://www.sfi.dk/election_surveys-12699.aspx
