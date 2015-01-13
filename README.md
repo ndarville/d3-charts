@@ -67,7 +67,7 @@ Example, info, and source [here][majority-chart-url].
 
 
 [d3]: http://d3js.org
-[world-map-img]: _screenshots/map.png
+[world-map-img]: _screenshots/world-map.png
 [world-map-url]: http://bl.ocks.org/ndarville/8287bd24c157edb5bb2b
 [party-votes-img]: _screenshots/party-votes.png
 [party-votes-url]: http://bl.ocks.org/ndarville/6475739
