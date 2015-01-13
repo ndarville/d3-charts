@@ -28,3 +28,6 @@
 [submodule "majority-chart"]
 	path = majority-chart
 	url = https://gist.github.com/8478044.git
+[submodule "world-map"]
+	path = world-map
+	url = git@gist.github.com:/8287bd24c157edb5bb2b.git

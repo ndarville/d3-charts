@@ -2,6 +2,14 @@ d3 Charts
 =========
 A collection of reusable charts made with [d3.js][d3].
 
+General
+-------
+### Map ###
+#### World View ####
+[![Map thumbnail][map-img]][world-map-url]
+
+Example, info, and source [here][world-map-url].
+
 Political
 ---------
 Many of newspapers (print and digital) outside, and sometimes inside, the U.S. are lagging behind, when it comes to using an online platform to cover and break down polling and votes in governmental bodies.
@@ -10,12 +18,10 @@ One consequence of the U.S.-centric innotative drive in data visualizations is t
 
 Hence, I have tried to create a collection of charts that should amend this. I have yet to figure out the official licensing with regards to `d3.js` and any similarities in code between these projects and their inspirations.
 
-
 ### Party Votes ###
 [![Party Votes thumbnail][party-votes-img]][party-votes-url]
 
 Example, info, and source [here][party-votes-url].
-
 
 ### Coalition Majority ###
 [![Coalition Majority thumbnail][coalition-majority-img]][coalition-majority-url]
@@ -61,6 +67,8 @@ Example, info, and source [here][majority-chart-url].
 
 
 [d3]: http://d3js.org
+[world-map-img]: _screenshots/map.png
+[world-map-url]: http://bl.ocks.org/ndarville/8287bd24c157edb5bb2b
 [party-votes-img]: _screenshots/party-votes.png
 [party-votes-url]: http://bl.ocks.org/ndarville/6475739
 [coalition-majority-img]: _screenshots/coalition-majority.png
