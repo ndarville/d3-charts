@@ -6,7 +6,7 @@ General
 -------
 ### Map ###
 #### World View ####
-[![Map thumbnail][map-img]][world-map-url]
+[![Map thumbnail][world-map-img]][world-map-url]
 
 Example, info, and source [here][world-map-url].
 
