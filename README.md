@@ -10,6 +10,10 @@ General
 
 Example, info, and source [here][world-map-url].
 
+[![Multicolour-map thumbnail][world-map-multi-img]][world-map-multi-url]
+
+Example, info, and source [here][world-map-multi-url].
+
 Political
 ---------
 Many of newspapers (print and digital) outside, and sometimes inside, the U.S. are lagging behind, when it comes to using an online platform to cover and break down polling and votes in governmental bodies.
@@ -69,6 +73,8 @@ Example, info, and source [here][majority-chart-url].
 [d3]: http://d3js.org
 [world-map-img]: _screenshots/world-map.png
 [world-map-url]: http://bl.ocks.org/ndarville/8287bd24c157edb5bb2b
+[world-map-multi-img]: _screenshots/world-map-multi.png
+[world-map-multi-url]: http://bl.ocks.org/ndarville/707cc158d2520c4e4602
 [party-votes-img]: _screenshots/party-votes.png
 [party-votes-url]: http://bl.ocks.org/ndarville/6475739
 [coalition-majority-img]: _screenshots/coalition-majority.png
