@@ -1,0 +1,17 @@
+{
+//  "camelcase": true,
+    "curly": true,
+    "eqeqeq": true,
+//  "indent": 4,
+    "freeze": true,
+    "noempty": true,
+    "nonbsp": true,
+    "nonew": true,
+    "notypeof": true,
+    "quotmark": "double",
+    "unused": true,
+// Exclude warnings
+    "-W008": false, // Forbid leading decimal point
+    "-W083": false, // Forbid functions in loops
+    "-W101": false  // Enforce line length
+}
