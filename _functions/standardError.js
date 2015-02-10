@@ -2,7 +2,7 @@
 // se(0.5, 1000) -> 0,0158 = 1.58%
 function se(p, n) {
     p = parseFloat(p);
-    return Math.sqrt(p*(1-p)/n);
+    return Math.sqrt(p * (1-p) / n);
 }
 
 // Returns se with 95% confidence instead of 68%
