@@ -1,2 +1,5 @@
 _backup/
 _mydata/
+build/
+node_modules/
+.DS_Store
