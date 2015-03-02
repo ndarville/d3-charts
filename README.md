@@ -5,7 +5,9 @@ A collection of reusable charts made with [d3.js][d3].
 General
 -------
 ### Map ###
+
 #### World View ####
+
 [![Map thumbnail][world-map-img]][world-map-url]
 
 Example, info, and source [here][world-map-url].
@@ -23,32 +25,38 @@ One consequence of the U.S.-centric innotative drive in data visualizations is t
 Hence, I have tried to create a collection of charts that should amend this. I have yet to figure out the official licensing with regards to `d3.js` and any similarities in code between these projects and their inspirations.
 
 ### Party Votes ###
+
 [![Party Votes thumbnail][party-votes-img]][party-votes-url]
 
 Example, info, and source [here][party-votes-url].
 
 ### Coalition Majority ###
+
 [![Coalition Majority thumbnail][coalition-majority-img]][coalition-majority-url]
 
 Example, info, and source [here][coalition-majority-url].
 
 ### Confidence Interval ###
+
 [![Confidence Interval thumbnail][confidence-interval-img]][confidence-interval-url]
 
 Example, info, and source [here][confidence-interval-url].
 
 ### Party Trend ###
 #### Single-Party Display ####
+
 [![Party Trend, single-party display thumbnail][party-trend-single-img]][party-trend-single-url]
 
 Example, info, and source [here][party-trend-single-url].
 
 #### Multi-Party Display ####
+
 [![Party Trend, multi-party display thumbnail][party-trend-multi-img]][party-trend-multi-url]
 
 Example, info, and source [here][party-trend-multi-url].
 
 ### Works in Progress ###
+
 1. [Combi Chart][combi-chart-url]
 2. [Blame Chart][blame-chart-url]
 3. [Bill Votes][bill-votes-url]
@@ -61,11 +69,13 @@ Miscellaneous
 ### Works in Progress ###
 
 #### Majority Chart ####
+
 [![Symmetric Stack Chart thumbnail][majority-chart-img]][majority-chart-url]
 
 Example, info, and source [here][majority-chart-url].
 
 #### CSV to HTML Table ####
+
 1. [Simple][simple-table]
 2. [Advanced][advanced-table]
 
