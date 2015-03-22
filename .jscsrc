@@ -1,4 +1,6 @@
 {
+    // jscs rules
+    // ==========
     "disallowMixedSpacesAndTabs": true,
     "disallowNewlineBeforeBlockStatements": true,
     "disallowPaddingNewlinesBeforeKeywords": [
@@ -66,5 +68,10 @@
     "requireSpacesInForStatement": true,
     // "validateIndentation": 4,
     // "validateLineBreaks": "CRLF",
-    "validateQuoteMarks": "\""
+    "validateQuoteMarks": "\"",
+
+    // React.js support
+    // ================
+    "esprima": "esprima-fb",
+    "fileExtensions": [".js", ".jsx"]
 }
