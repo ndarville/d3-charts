@@ -13,9 +13,6 @@
 [submodule "combi-chart"]
 	path = combi-chart
 	url = git@gist.github.com:/6587098.git
-[submodule "blame-chart"]
-	path = blame-chart
-	url = git@gist.github.com:/6596508.git
 [submodule "relative-budgets"]
 	path = relative-budgets
 	url = git@gist.github.com:/6826638.git

@@ -58,7 +58,6 @@ Example, info, and source [here][party-trend-multi-url].
 ### Works in Progress ###
 
 1. [Combi Chart][combi-chart-url]
-2. [Blame Chart][blame-chart-url]
 3. [Bill Votes][bill-votes-url]
 4. [Relative Budgets][relative-budgets-url]
 
@@ -96,7 +95,6 @@ Example, info, and source [here][majority-chart-url].
 [party-trend-multi-img]: _screenshots/party-trend-multi.png
 [party-trend-multi-url]: http://bl.ocks.org/ndarville/11094667
 [combi-chart-url]: http://bl.ocks.org/ndarville/6587098
-[blame-chart-url]: http://bl.ocks.org/ndarville/6596508
 [bill-votes-url]: http://bl.ocks.org/ndarville/6484png
 [relative-budgets-url]: http://bl.ocks.org/ndarville/6826638
 [relative-budgets-img]: _screenshots/relative-budgets.png
