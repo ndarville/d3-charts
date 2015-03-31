@@ -1,7 +1,9 @@
 {
     // jscs rules
     // ==========
+    "disallowIdentifierNames": ["foo, "bar", "baz", "qux"],
     "disallowMixedSpacesAndTabs": true,
+    "disallowMultipleSpaces": false,
     "disallowNewlineBeforeBlockStatements": true,
     "disallowPaddingNewlinesBeforeKeywords": [
         "else",
@@ -21,6 +23,7 @@
     "requireCapitalizedComments": true,
     "requireCommaBeforeLineBreak": true,
     "requireLineBreakAfterVariableAssignment": true,
+    "requireSemiColons": true,
     "requireQuotedKeysInObjects": true,
     "requireSpaceAfterBinaryOperators": [
         "=",
