@@ -18,9 +18,9 @@ Example, info, and source [here][world-map-multi-url].
 
 Political
 ---------
-Many of newspapers (print and digital) outside, and sometimes inside, the U.S. are lagging behind, when it comes to using an online platform to cover and break down polling and votes in governmental bodies.
+Many of newspapers (print and digital) outside, and sometimes inside, the US are lagging behind, when it comes to using an online platform to cover and break down polling and votes in governmental bodies.
 
-One consequence of the U.S.-centric innotative drive in data visualizations is that it mainly supports a U.S.-style parliament, i.e. a two-party and two-candidate system (including Independents) with little to no support for multi-party parliaments and coalitions. In democracies like Scandinavia, this becomes a problem.
+One consequence of the US-centric innotative drive in data visualizations is that it mainly supports a US-style parliament, ie a two-party and two-candidate system (including Independents) with little to no support for multi-party parliaments and coalitions. In democracies like Scandinavia, this becomes a problem.
 
 Hence, I have tried to create a collection of charts that should amend this. I have yet to figure out the official licensing with regards to `d3.js` and any similarities in code between these projects and their inspirations.
 
