@@ -43,18 +43,6 @@ Example, info, and source [here][party-trend-multi-url].
 
 Example, info, and source [here][coalition-majority-url].
 
-### Confidence Interval ###
-
-[![Confidence Interval thumbnail][confidence-interval-img]][confidence-interval-url]
-
-Example, info, and source [here][confidence-interval-url].
-
-### Party Votes ###
-
-[![Party Votes thumbnail][party-votes-img]][party-votes-url]
-
-Example, info, and source [here][party-votes-url].
-
 ### Works in Progress ###
 
 1. [Combi Chart][combi-chart-url]
@@ -78,6 +66,20 @@ Example, info, and source [here][majority-chart-url].
 1. [Simple][simple-table]
 2. [Advanced][advanced-table]
 
+Legacy Charts
+-------------
+### Confidence Interval ###
+
+[![Confidence Interval thumbnail][confidence-interval-img]][confidence-interval-url]
+
+Example, info, and source [here][confidence-interval-url].
+
+### Party Votes ###
+
+[![Party Votes thumbnail][party-votes-img]][party-votes-url]
+
+Example, info, and source [here][party-votes-url].
+
 
 [d3]: http://d3js.org
 [world-map-img]: _screenshots/world-map.png
@@ -92,13 +94,13 @@ Example, info, and source [here][majority-chart-url].
 [majority-chart-img]: _screenshots/majority-chart.png
 [coalition-majority-img]: _screenshots/coalition-majority.png
 [coalition-majority-url]: http://bl.ocks.org/ndarville/6475152
-[confidence-interval-img]: _screenshots/confidence-interval.png
-[confidence-interval-url]: http://bl.ocks.org/ndarville/6552457
-[party-votes-img]: _screenshots/party-votes.png
-[party-votes-url]: http://bl.ocks.org/ndarville/6475739
 [combi-chart-url]: http://bl.ocks.org/ndarville/6587098
 [bill-votes-url]: http://bl.ocks.org/ndarville/6484png
 [relative-budgets-url]: http://bl.ocks.org/ndarville/6826638
 [relative-budgets-img]: _screenshots/relative-budgets.png
 [simple-table]: http://bl.ocks.org/ndarville/7075823
 [advanced-table]: http://bl.ocks.org/ndarville/7241320
+[confidence-interval-img]: _screenshots/confidence-interval.png
+[confidence-interval-url]: http://bl.ocks.org/ndarville/6552457
+[party-votes-img]: _screenshots/party-votes.png
+[party-votes-url]: http://bl.ocks.org/ndarville/6475739
